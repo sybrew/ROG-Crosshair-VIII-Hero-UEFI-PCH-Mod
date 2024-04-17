@@ -1,0 +1,15 @@
+========== Section_PE32_image_Setup.sct ==========
+
+Unsuppressed 0x5809F
+
+
+
+========== Section_Freeform_subtype_GUID_setupdata_setupdata_AMITSESetupData_body.bin ==========
+
+  PCH Fan Step Up | QuestionId 0x2810: Optimal FF -> 40
+    PCH Fan Middle Temperature | QuestionId 0x2816: Optimal 3C -> 48
+    PCH Fan Middle Duty Cycle (%) | QuestionId 0x2817: Optimal 28 -> 1E
+    PCH Fan Lower Temperature | QuestionId 0x2818: Optimal 37 -> 41
+
+
+
